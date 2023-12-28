@@ -1,0 +1,48 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo {
+    width: 100px; /* Adjust as needed */
+}
+
+main {
+    text-align: center;
+}
+
+#product-section {
+    margin-top: 20px;
+}
+
+#image-container img {
+    width: 100px; /* Adjust as needed */
+    margin: 10px;
+}
+
+#add-to-basket {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #f3f3f3;
+    padding: 20px;
+    text-align: center;
+}
+
+footer h3 {
+    margin: 0;
+}
